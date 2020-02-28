@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,sBACI,WAAY,CACZ,YAAa,CACb,qBACJ","file":"main.31acd513.chunk.css","sourcesContent":[".app section.app_goal {\r\n    margin: 10px;\r\n    padding: 10px;\r\n    border: 1px solid black;\r\n}\r\n\r\n"]}

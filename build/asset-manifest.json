@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/week-exercises-app/static/css/main.31acd513.chunk.css",
+    "main.js": "/week-exercises-app/static/js/main.f9a439dc.chunk.js",
+    "main.js.map": "/week-exercises-app/static/js/main.f9a439dc.chunk.js.map",
+    "runtime-main.js": "/week-exercises-app/static/js/runtime-main.725deb20.js",
+    "runtime-main.js.map": "/week-exercises-app/static/js/runtime-main.725deb20.js.map",
+    "static/js/2.bbc82831.chunk.js": "/week-exercises-app/static/js/2.bbc82831.chunk.js",
+    "static/js/2.bbc82831.chunk.js.map": "/week-exercises-app/static/js/2.bbc82831.chunk.js.map",
+    "index.html": "/week-exercises-app/index.html",
+    "precache-manifest.7a9efefb3fb93c6d2be54811d0d2f63e.js": "/week-exercises-app/precache-manifest.7a9efefb3fb93c6d2be54811d0d2f63e.js",
+    "service-worker.js": "/week-exercises-app/service-worker.js",
+    "static/css/main.31acd513.chunk.css.map": "/week-exercises-app/static/css/main.31acd513.chunk.css.map",
+    "static/js/2.bbc82831.chunk.js.LICENSE.txt": "/week-exercises-app/static/js/2.bbc82831.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.725deb20.js",
+    "static/js/2.bbc82831.chunk.js",
+    "static/css/main.31acd513.chunk.css",
+    "static/js/main.f9a439dc.chunk.js"
+  ]
+}
